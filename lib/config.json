@@ -1,7 +1,7 @@
 {
     "login":{
-        "username":"nordnetusername",
-        "password":"nordnetpassword",
+        "username":"anystedt",
+        "password":"test123",
         "certificate":"lib/NEXTAPI_TEST_public.pem",
         "accountnumber": 0
     },
@@ -12,10 +12,10 @@
         "headers": {"Accept": "application/json"}
     },
     "e-mail":{
-        "from_addr_username":"email_send_account@gmail.com",
-        "from_addr_password":"password_send_account",
+        "from_addr_username":"antonnystedt12@gmail.com",
+        "from_addr_password":"Lunkan55",
         "from_addr_smtp":"smtp.gmail.com:587",
-        "to_addr":"email_to_send_to@gmail.com"
+        "to_addr":"anton.nystedt@hotmail.com"
     },
 	"history":{
 		"database":"lib/historical_prices.db",
